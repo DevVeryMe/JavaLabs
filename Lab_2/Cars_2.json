@@ -1,0 +1,27 @@
+[
+  {
+    "model": "Nissan 370z",
+    "price": "15000",
+    "maxSpeed": "230"
+  },
+  {
+    "model": "Subaru WRX STI",
+    "price": "20000",
+    "maxSpeed": "280"
+  },
+  {
+    "model": "Honda Accord Coupe",
+    "price": "14000",
+    "maxSpeed": "240"
+  },
+  {
+    "model": "Lamborghini Huracan Perfomanto",
+    "price": "400000",
+    "maxSpeed": "390"
+  },
+  {
+    "model": "Porsche 911",
+    "price": "120000",
+    "maxSpeed": "320"
+  }
+]

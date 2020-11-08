@@ -1,0 +1,27 @@
+[
+  {
+    "model": "Nissan GTR",
+    "price": "80000",
+    "maxSpeed": "360"
+  },
+  {
+    "model": "Lada Kalina",
+    "price": "3000",
+    "maxSpeed": "150"
+  },
+  {
+    "model": "Ford Focus ST",
+    "price": "20000",
+    "maxSpeed": "250"
+  },
+  {
+    "model": "Ford Focus RS",
+    "price": "30000",
+    "maxSpeed": "300"
+  },
+  {
+    "model": "Toyota Supra",
+    "price": "60000",
+    "maxSpeed": "300"
+  }
+]
